@@ -1,7 +1,7 @@
 # HIV_Informatics_STARTHERE
 Landing page for HIV Informatics: maximizing information extraction from samples with suspected HIV.
 
-# Programs to facilitate the analyses of HIV squences
+# Tools/resources to facilitate the analyses of HIV squences
 
 Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
