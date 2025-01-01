@@ -17,7 +17,7 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 [SpliceChecker*](https://github.com/GenerGener/SpliceChecker)
 
-[UTR_Maker*](https://github.com/GenerGener/UTR_Maker)
+[UTR_Maker*](https://github.com/GenerGener/UTR_Maker) - Make 5' and 3' UTRs from annotated cDNA mRNA transcript models.
 
 [HIV_profiler*](https://github.com/GenerGener/HIV_profiler) - Use locus segmentation to inform HIV mRNA expression level estimation from sequencing data.
 
