@@ -5,11 +5,11 @@ Landing page for HIV Informatics: maximizing information extraction from samples
 
 Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
-[HIV-1_mRNA_Atlas](https://github.com/GenerGener/HIV-1_mRNA_Atlas)
+[HIV-1_mRNA_Atlas](https://github.com/GenerGener/HIV-1_mRNA_Atlas) - Standardized HIV-1 mRNA models[^1].
 
 ## Beta (working): 
 
-[AtlasMaker*](https://github.com/GenerGener/AtlasMaker)
+[AtlasMaker*](https://github.com/GenerGener/AtlasMaker) - A species-agnostic method for reference-guided mRNA modeling.
 
 [UTR_Checker](https://github.com/GenerGener/UTR_Checker) - Assess for U3-R-U5 presence in user-provided HIV sequences.
 
@@ -31,3 +31,5 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 [TelomereFinder](https://github.com/GenerGener/TelomereFinder)
 
 [hashycat](https://github.com/GenerGener/hashycat)
+
+[^1]:
