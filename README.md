@@ -5,7 +5,7 @@ Landing page for HIV Informatics: maximizing information extraction from samples
 
 Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
-[HIV-1_mRNA_Atlas](https://github.com/GenerGener/HIV-1_mRNA_Atlas) - Standardized HIV-1 mRNA models[^1].
+[HIV-1_mRNA_Atlas](https://github.com/GenerGener/HIV-1_mRNA_Atlas) - Standardized HIV-1 mRNA models[^1][^2][^3].
 
 ## Beta (working): 
 
@@ -34,4 +34,6 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 [^1]: Gener, Alejandro R., Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
 
-[^2]: 
+[^2]: Gener, A. R., Klotman, P. E., Danesh, F. R., Cijiang He, J., Kimata, J. T., Lupski, J. R., & Ross, M. J. (2021). HIV informatics. Baylor College of Medicine Integrative Molecular and Biomedical Sciences Graduate Program.
+
+[^3]: Gener, A. R. (2022). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS, 36(1). https://journals.lww.com/aidsonline/Fulltext/2022/01010/Anticipating_HIV_drug_resistance_with_appropriate.16.aspx.
