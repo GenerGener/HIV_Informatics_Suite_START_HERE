@@ -32,4 +32,6 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 [hashycat](https://github.com/GenerGener/hashycat)
 
-[^1]:
+[^1]: Gener, Alejandro R., Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
+
+[^2]: 
