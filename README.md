@@ -15,7 +15,7 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 [AtlasAnnotator*](https://github.com/GenerGener/AtlasAnnotator)
 
-[SpliceChecker*](https://github.com/GenerGener/SpliceChecker)
+[SpliceChecker*](https://github.com/GenerGener/SpliceChecker) - Check HIV cDNA against HIV-1 Atlas v1.0.
 
 [UTR_Maker*](https://github.com/GenerGener/UTR_Maker) - Make 5' and 3' UTRs from annotated cDNA mRNA transcript models.
 
