@@ -11,13 +11,13 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 [AtlasMaker*](https://github.com/GenerGener/AtlasMaker)
 
-[AtlasMatcher*](https://github.com/GenerGener/AtlasMatcher)
-
 [UTR_Checker](https://github.com/GenerGener/UTR_Checker) - Assess for U3-R-U5 presence in user-provided HIV sequences.
 
 [UTR_Maker*](https://github.com/GenerGener/UTR_Maker) - Make 5' and 3' UTRs from annotated cDNA mRNA transcript models.
 
 ## Alpha (in development):
+
+[AtlasMatcher*](https://github.com/GenerGener/AtlasMatcher) - Determine the extent to which a user's cDNA matches a given model set. It is designed with HIV-1 in mind, but may be absreacted for other genomic loci.
 
 [AtlasAnnotator*](https://github.com/GenerGener/AtlasAnnotator) - Annotate AtlasMaker output with HIV-1 Atlas v1.0 GenBank annotations.
 
