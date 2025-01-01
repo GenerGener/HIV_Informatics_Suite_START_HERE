@@ -17,7 +17,7 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 ## Alpha (in development):
 
-[AtlasMatcher*](https://github.com/GenerGener/AtlasMatcher) - Determine the extent to which a user's cDNA matches a given model set. It is designed with HIV-1 in mind, but may be absreacted for other genomic loci.
+[AtlasMatcher*](https://github.com/GenerGener/AtlasMatcher) - Determine the extent to which a user's cDNA matches a given model set. It is designed with HIV-1 in mind, but may be absracted for other genomic loci.
 
 [AtlasAnnotator*](https://github.com/GenerGener/AtlasAnnotator) - Annotate AtlasMaker output with HIV-1 Atlas v1.0 GenBank annotations.
 
