@@ -1,5 +1,5 @@
 # HIV_Informatics_STARTHERE
-Landing page for HIV Informatics: maxing information from samples with suspected HIV.
+Landing page for HIV Informatics: maximizing information extraction from samples with suspected HIV.
 
 # Programs to facilitate the analyses of HIV squences
 
