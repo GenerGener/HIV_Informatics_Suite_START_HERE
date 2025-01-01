@@ -19,7 +19,7 @@ Tools/resources marked with asterisks (*) may have utility in non-HIV systems.
 
 [UTR_Maker*](https://github.com/GenerGener/UTR_Maker)
 
-[HIV_profiler*](https://github.com/GenerGener/HIV_profiler)
+[HIV_profiler*](https://github.com/GenerGener/HIV_profiler) - Use locus segmentation to inform HIV mRNA expression level estimation from sequencing data.
 
 # Miscellaneous genomics programs
 [ONT_homopolymer_screen](https://github.com/GenerGener/ONT_homopolymer_screen)
